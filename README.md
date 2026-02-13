@@ -8,4 +8,4 @@ https://tetrisbot.netlify.app
 https://t.me/tetris_gbot
 
 ![Tetris]
-(https://raw.githubusercontent.com/bottov/tetris/refs/heads/main/tetris.jpg)
+(tetris.jpg)
