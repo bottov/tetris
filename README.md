@@ -1,8 +1,11 @@
-# Tetris game
+# Tetris
 
-Links for test:
-https://tetrisbot.netlify.app
+_Simple titris game in javascript_
+
+## Links for test:
+
+https://tetrisbot.netlify.app  
 https://t.me/tetris_gbot
 
 ![Tetris]
-(https://github.com/bottov/tetris/raw/main/images/tetris.jpg)
+(https://raw.githubusercontent.com/bottov/tetris/refs/heads/main/tetris.jpg)
