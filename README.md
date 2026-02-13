@@ -7,4 +7,5 @@ _Simple titris game in javascript_
 https://tetrisbot.netlify.app  
 https://t.me/tetris_gbot
 
+## Preview
 ![Tetris](https://raw.githubusercontent.com/bottov/tetris/main/tetris.jpg)
